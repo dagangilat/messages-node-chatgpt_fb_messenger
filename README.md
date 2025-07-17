@@ -2,7 +2,7 @@
 
 A node application that allows you to setup a Facebook Messenger bot that gives ChatGPT answers.
 
-> You can find full step-by-step instructions on the [Vonage Developer Blog](https://developer.vonage.com/en/blog/integrate-chatgpt-with-meta-facebook-messenger-via-messages-api).
+> You can find full step-by-step instructions on the [Vonage Developer Blog](https://developer.vonage.com/blog/integrate-chatgpt-with-meta-facebook-messenger-via-messages-api).
 
 ## Prerequisites
 1. [Node.js installed on your machine.](https://nodejs.org/en/download)
