@@ -1,7 +1,7 @@
 {
   "name": "chatgpt-fb_messenger",
   "version": "1.0.0",
-  "description": "",
+  "description": "A node application that allows you to setup a Facebook Messenger bot that gives ChatGPT answers.",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -15,5 +15,13 @@
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
     "openai": "^5.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagangilat/messages-node-chatgpt_fb_messenger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dagangilat/messages-node-chatgpt_fb_messenger/issues"
+  },
+  "homepage": "https://github.com/dagangilat/messages-node-chatgpt_fb_messenger#readme"
 }
