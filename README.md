@@ -31,5 +31,3 @@ ngrok http 3000
 ```
 8. Test your app by sending a message to your Facebook page.
 
-
-# messages-node-chatgpt_fb_messenger
